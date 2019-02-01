@@ -185,7 +185,6 @@ class TFLiteConverter(object):
                output_tensors,
                input_arrays_with_shape=None,
                output_arrays=None):
-
     """Constructor for TFLiteConverter.
 
     Args:
